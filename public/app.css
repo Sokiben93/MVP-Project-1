@@ -1,0 +1,84 @@
+html {
+    background-color: rgb(119, 165, 244);
+}
+
+body {
+    background-color: pink;
+    border-radius: 7%;
+}
+.car {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(253, 206, 214);
+    margin-right: 35px;
+}
+
+.date {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    font-size: 20px;
+}
+
+.footer {
+    margin-top: 445px;
+    /* display: flex; */
+}
+
+.title-time {
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+h5 {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 115px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.row {
+    margin-top: 24px;
+}
+
+.add-btn {
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.add-all-btn {
+    margin-left: 34px;
+    margin-top: 5px;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    color: #3058a9;
+}
+
+tr {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.fixed {
+    margin-right: 98px;
+}
+
+.remove-btn {
+    border-radius: 50%;
+}
+
+.edit-btn {
+    border-radius: 50%;
+}
